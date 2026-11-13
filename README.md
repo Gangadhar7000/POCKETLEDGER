@@ -108,11 +108,6 @@ The `transactions` table stores:
 
 ## Notes
 
-- This is a local educational project, not a production financial service.
-- No bank account or payment credentials are collected.
 - The default Flask secret key is for local development only. Set the `SECRET_KEY` environment variable before any deployment.
 - The database file is excluded from Git using `.gitignore`; each user gets a fresh local database.
 
-## License
-
-This project is available for educational and personal use.
